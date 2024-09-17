@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+}
+
+.container {
+    background-color: rgb(121, 171, 171);
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    gap: 10px;
+    margin: 40px auto;
+    padding: 5px;
+}
